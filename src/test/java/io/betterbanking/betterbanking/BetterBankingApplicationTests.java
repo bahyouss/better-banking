@@ -1,4 +1,4 @@
-package com.betterbanking.betterbanking;
+package io.betterbanking.betterbanking;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

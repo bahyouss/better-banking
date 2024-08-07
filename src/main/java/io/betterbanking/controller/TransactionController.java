@@ -1,7 +1,7 @@
-package com.betterbanking.controller;
+package io.betterbanking.controller;
 
-import com.betterbanking.model.Transaction;
-import com.betterbanking.service.TransactionService;
+import io.betterbanking.model.Transaction;
+import io.betterbanking.service.TransactionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

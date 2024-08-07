@@ -1,4 +1,4 @@
-package com.betterbanking.model;
+package io.betterbanking.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

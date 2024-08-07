@@ -1,6 +1,6 @@
-package com.betterbanking.service;
+package io.betterbanking.service;
 
-import com.betterbanking.model.Transaction;
+import io.betterbanking.model.Transaction;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;

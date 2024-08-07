@@ -1,9 +1,9 @@
-package com.betterbanking.betterbanking;
+package io.betterbanking.betterbanking;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication(scanBasePackages = "com.betterbanking")
+@SpringBootApplication(scanBasePackages = "io.betterbanking")
 public class BetterBankingApplication {
 
 	public static void main(String[] args) {
